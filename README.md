@@ -47,3 +47,8 @@ while(head){
 	delete r;
 }
 ```
+![image](https://github.com/user-attachments/assets/cb558655-9fad-4115-83f4-e5c3dc44a026)
+![in_game](https://github.com/user-attachments/assets/2fa3045e-e4ff-48f1-881b-80f06bd96c5f)
+![image](https://github.com/user-attachments/assets/e580430f-342a-4588-854a-9edcee5e672d)
+![image](https://github.com/user-attachments/assets/e35248da-ef46-4445-9429-9d0c3ae7e86b)
+
